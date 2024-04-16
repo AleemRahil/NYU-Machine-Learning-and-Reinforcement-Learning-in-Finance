@@ -19,3 +19,4 @@
 4. [IRL Market Model Calibration](Machine-Learning-and-Reinforcement-Learning-in-Finance/IRL_market_model_DJI_calibration_Coursera.ipynb)
 
 ## Overview of Advanced Methods of Reinforcement Learning in Finance
+1. [IRL Market Model QED_DJI_Calibration](Machine-Learning-and-Reinforcement-Learning-in-Finance/QED_DJI_calibration_Coursera_course_4_Assignment.ipynb)
